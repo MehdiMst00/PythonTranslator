@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonTranslator", "PythonTranslator\PythonTranslator.pyproj", "{A5CB68B5-729A-43C6-AEEC-080DDEDBD2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CB68B5-729A-43C6-AEEC-080DDEDBD2FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CB68B5-729A-43C6-AEEC-080DDEDBD2FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CB68B5-729A-43C6-AEEC-080DDEDBD2FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CB68B5-729A-43C6-AEEC-080DDEDBD2FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16693B9A-3918-4EEC-8827-943B709C7CEB}
+	EndGlobalSection
+EndGlobal
